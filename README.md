@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abiz01
-- 👀 I’m interested in ... building a project of my own.
+- 👀 I’m interested in ... building projects
 - 🌱 I’m currently learning ... Basic web design codes
 - 💞️ I’m looking to collaborate on ... frontend development
 - 📫 How to reach me ... email at Abis4lyf19@gmail.com or text at +2348160576357
